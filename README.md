@@ -1,3 +1,6 @@
+
+README.md
+
 # 📧 Email Service API — Version 1.0 (V1)
 
 A clean, beginner-friendly REST API built with **Node.js**, **Express**, and **Nodemailer** to send real emails to any address using Google's SMTP service.
